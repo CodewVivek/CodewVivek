@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm <span style="color:#facc15">CodewSkypher</span></h1>
+<h1 align="center">Hey there 👋 </h1>
 <h3 align="center">💻 Writing code. Breaking things. Refining chaos.</h3>
 
 <p align="center">
@@ -10,17 +10,8 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,supabase,github,nelify,html,css,expressjs,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,mysql,mongodb,github,supabase,vercel,html,css,expressjs" />
 </p>
-
----
-
-### 🔧 Dev Logs & Oddities
-
-- 🧩 Build modular, break atomic, refactor ghost-level.  
-- 🎯 Bugs aren’t bugs — they’re misunderstood features.  
-- 🤖 My stack runs smoother than my sleep schedule.  
-- 🌌 Dark mode isn’t a choice—it’s a lifestyle.  
 
 ---
 
@@ -49,11 +40,11 @@
 
 <p align="center">
   <a href="https://github.com/CodewVivek"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:skypher206@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  🚀 Built with caffeine, dark mode, and way too many commits
+  🚀 
 </p>
