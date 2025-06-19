@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋 </h1>
-<h3 align="center">💻 Writing code. Breaking things. Refining chaos.</h3>
+<h3 align="center">💻 Writing code</h3>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlubXhwOW1kODJsNTNkZ2lwNm5mMzJibWJoYXZjMnhpazdzNHRoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/de5bARu0SsXiU/giphy.gif" width="400" alt="Cool developer coding"/>
@@ -46,5 +46,5 @@
 ---
 
 <p align="center">
-  🚀 
+  🚀 Commits like a ninja, bugs like a toddler.
 </p>
