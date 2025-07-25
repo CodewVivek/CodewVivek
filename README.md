@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 Tech Stack yes
+### 🚀 Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,mysql,mongodb,github,supabase,vercel,html,css,expressjs" />
